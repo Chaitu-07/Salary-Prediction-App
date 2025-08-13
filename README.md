@@ -27,9 +27,9 @@ Installation
 
 Make sure you have Python installed. Then, install the required packages:
 
-pip install streamlit joblib numpy
+1. pip install streamlit joblib numpy
 
-Load your pre-trained model (`linearmodel.pkl`) in the project directory.
+2. Load your pre-trained model (`linearmodel.pkl`) in the project directory.
 
 Run the app:
 
